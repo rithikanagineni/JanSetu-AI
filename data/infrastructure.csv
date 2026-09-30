@@ -1,0 +1,17 @@
+facility_id,facility_name,facility_type,state,district,latitude,longitude,capacity,population_served,accessibility_score,condition_rating
+FAC-TS-01,Mahabubnagar District Hospital,District Hospital,Telangana,Mahabubnagar,16.7488,77.9947,350,180000,74,Good
+FAC-TS-02,Jadcherla Community Health Centre,CHC,Telangana,Mahabubnagar,16.7724,78.1368,50,45000,58,Fair
+FAC-TS-03,Bhoothpur Primary Health Centre,PHC,Telangana,Mahabubnagar,16.6987,77.9712,12,18500,42,Needs Upgrade
+FAC-TS-04,Midjil Sub-Centre,Sub-Centre,Telangana,Mahabubnagar,16.6541,78.2134,4,8200,31,Dilapidated
+FAC-TS-05,Warangal MGM Hospital,Tertiary Hospital,Telangana,Warangal,17.9784,79.5941,600,320000,82,Good
+FAC-TS-06,Parkal Community Health Centre,CHC,Telangana,Warangal,18.2012,79.7123,40,38000,61,Fair
+FAC-TS-07,Kurnool Government General Hospital,Tertiary Hospital,Andhra Pradesh,Kurnool,15.8281,78.0373,550,290000,78,Good
+FAC-TS-08,Adoni Area Hospital,Area Hospital,Andhra Pradesh,Kurnool,15.6322,77.2728,100,85000,52,Fair
+FAC-TS-09,Pattikonda Primary Health Centre,PHC,Andhra Pradesh,Kurnool,15.4011,77.5123,10,22000,35,Needs Upgrade
+FAC-TS-10,Aheri Sub-District Hospital,Sub-District Hospital,Maharashtra,Gadchiroli,19.4123,80.0123,75,42000,45,Fair
+FAC-TS-11,Bhamragad Rural Hospital,Rural Hospital,Maharashtra,Gadchiroli,19.2412,80.4512,20,16000,28,Poor
+FAC-TS-12,Manvi Taluk Hospital,Taluk Hospital,Karnataka,Raichur,15.9876,77.0543,60,52000,49,Fair
+FAC-TS-13,Sindhanur CHC,CHC,Karnataka,Raichur,15.7667,76.7667,45,41000,54,Fair
+FAC-TS-14,Harur Government Hospital,Taluk Hospital,Tamil Nadu,Dharmapuri,12.0624,78.4987,70,55000,64,Good
+FAC-TS-15,Dudhi Community Health Centre,CHC,Uttar Pradesh,Sonbhadra,24.2145,83.2512,30,34000,38,Needs Upgrade
+FAC-TS-16,Ghorawal Primary Health Centre,PHC,Uttar Pradesh,Sonbhadra,24.7123,82.7812,10,19000,32,Poor

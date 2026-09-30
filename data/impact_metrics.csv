@@ -1,0 +1,5 @@
+intervention_id,project_name,sector,district,state,implementation_period,pre_requests_count,post_requests_count,pre_avg_travel_km,post_avg_travel_km,pre_accessibility_score,post_accessibility_score,satisfaction_pct,status
+IMP-2025-01,Upgradation of Jadcherla Community Health Centre & Mobile Clinic,Healthcare,Mahabubnagar,Telangana,2024-2025,3842,1920,20.0,8.0,42,78,82.4,Completed & Monitored
+IMP-2024-02,Mission Bhagiratha Habitation Feeder Water Network,Water,Mahabubnagar,Telangana,2023-2024,2410,610,4.2,0.8,48,88,89.1,Completed & Monitored
+IMP-2024-03,All-Weather Bitumen Road Bhamragad-Allapalli Sector,Roads,Gadchiroli,Maharashtra,2023-2024,1850,520,16.5,4.0,29,72,79.5,Completed & Monitored
+IMP-2025-04,Pattikonda Taluk Primary Sub-Centre & Telemedicine Kiosk,Healthcare,Kurnool,Andhra Pradesh,2024-2025,1980,840,18.0,6.5,36,74,80.2,Completed & Monitored
